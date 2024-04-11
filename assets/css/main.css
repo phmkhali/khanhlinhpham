@@ -92,7 +92,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #798777;
+		background: #103b4c;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -191,10 +191,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #798777, #A2B29F);
-				background-image: -webkit-linear-gradient(to right, #798777, #A2B29F);
-				background-image: -ms-linear-gradient(to right, #798777, #A2B29F);
-				background-image: linear-gradient(to right, #798777, #A2B29F);
+				background-image: -moz-linear-gradient(to right, #103b4c, #A2B29F);
+				background-image: -webkit-linear-gradient(to right, #103b4c, #A2B29F);
+				background-image: -ms-linear-gradient(to right, #103b4c, #A2B29F);
+				background-image: linear-gradient(to right, #103b4c, #A2B29F);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -1909,7 +1909,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #798777 !important;
+			color: #103b4c !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -2138,7 +2138,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #798777;
+			background: #103b4c;
 		}
 
 		select:focus::-ms-value {
@@ -2745,7 +2745,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: #798777;
+				background: #103b4c;
 				content: '';
 				display: block;
 				height: 100%;
@@ -2959,31 +2959,31 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #618264;
+			background-color: #2b457c;
 		}
 
 		.wrapper.style1 {
-			background-color: #899786;
+			background-color: #103b4c;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #B0D9B1;
+			background-color: #2c5483;
 		}
 
 		.wrapper.style2 {
-			background-color: #5a5549;
+			background-color: #103b4c;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #798777;
+			background-color: #103b4c;
 		}
 
 		.wrapper.style3 {
-			background-color: #647062;
+			background-color: #38526D;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #A2B29F;
+			background-color: #103b4c;
 		}
 
 		.wrapper.fullscreen {
@@ -3093,7 +3093,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #798777;
+		background-color: #103b4c;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3217,7 +3217,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #F8EDE3;
+		background: #DEEBE8;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3454,14 +3454,14 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #A2B29F;
+				background: #38526D;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #798777, #554b37);
-				background-image: -webkit-linear-gradient(to right, #798777, #554b37);
-				background-image: -ms-linear-gradient(to right, #798777, #554b37);
-				background-image: linear-gradient(to right, #798777, #554b37);
+				background-image: -moz-linear-gradient(to right, #103b4c, #3f0f75);
+				background-image: -webkit-linear-gradient(to right, #103b4c, #3f0f75);
+				background-image: -ms-linear-gradient(to right, #103b4c, #3f0f75);
+				background-image: linear-gradient(to right, #103b4c, #3f0f75);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3470,11 +3470,11 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:hover {
-				color: #798777;
+				color: #38526D;
 			}
 
 			#sidebar nav a.active {
-				color: #798777;
+				color: #103b4c;
 			}
 
 				#sidebar nav a.active:after {
@@ -3550,7 +3550,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #A2B29F;
+							background-color: #284781;
 						}
 
 		}
